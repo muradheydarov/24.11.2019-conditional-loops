@@ -26,32 +26,14 @@ Number is : 3 and cube of the 3 is :27
 Number is : 4 and cube of the 4 is :64
 Number is : 5 and cube of the 5 is :125
 
-3. Write a program in C to display the n terms of odd natural number and their sum . Go to the editor
+3. Write a program in C to display the n terms of odd natural number and their sum.
 Test Data
 Input number of terms : 10
 Expected Output :
 The odd numbers are :1 3 5 7 9 11 13 15 17 19
 The Sum of odd Natural Number upto 10 terms : 100
 
-4. Write a program in C to make such a pattern like right angle triangle with a number which will repeat a number in a row.
-
-The pattern like :
-
- 1
- 22
- 333
- 4444
-
-5. Write a program in C to make such a pattern like right angle triangle with number increased by 1.
-
-The pattern like :
-
-   1
-   2 3
-   4 5 6
-   7 8 9 10
-
-6. Write a C program to read temperature in centigrade and display a suitable message according to temperature state below : Go to the editor
+4. Write a C program to read temperature in centigrade and display a suitable message according to temperature state below :
 Temp < 0 then Freezing weather
 Temp 0-10 then Very Cold weather
 Temp 10-20 then Cold weather
@@ -63,8 +45,20 @@ Test Data :
 Expected Output :
 Its very hot.
 
-## Elave alqoritmik tabsiriq etmek isteyenler asagidaki saytlari istifade ede bilerler. 
-# Note. Burda etdiklerinizin cavabini gondermeye ehtiyac yoxdu. Sual yaranarsa qeyd edin ya lab da ya da (||) dersden sonra muzakire ederik. 
+5. Write a program in C to display the n terms of even natural number and their sum.
+Test Data :
+Input number of terms : 5
+Expected Output :
+The even numbers are :2 4 6 8 10
+The Sum of even Natural Number upto 5 terms : 30
+
+6. Write a program in C that takes minutes as input, and display the total number of hours and minutes.
+Expected Output :
+Input minutes: 546
+9 Hours, 6 Minutes
+
+### Elave alqoritmik tabsiriq etmek isteyenler asagidaki saytlari istifade ede bilerler. 
+##### Note. Burda etdiklerinizin cavabini gondermeye ehtiyac yoxdu. Sual yaranarsa qeyd edin ya lab da ya da (||) dersden sonra muzakire ederik. 
 
 - https://www.hackerrank.com/
 - https://www.e-olymp.com/az/problems
